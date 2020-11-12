@@ -4,13 +4,13 @@ bin/
 project/
 target/
 build/
+main/resources
 
 # eclipse
 build
 .classpath
 .project
 .settings
-.properties
 .worksheet
 
 # intellij idea
