@@ -4,7 +4,7 @@ bin/
 project/
 target/
 build/
-main/resources
+src/main/resources/
 
 # eclipse
 build
