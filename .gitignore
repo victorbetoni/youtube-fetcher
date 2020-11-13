@@ -5,8 +5,6 @@ project/
 target/
 build/
 
-*.properties
-
 # eclipse
 build
 .classpath
