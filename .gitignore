@@ -4,7 +4,8 @@ bin/
 project/
 target/
 build/
-src/main/resources/
+
+*.properties
 
 # eclipse
 build
